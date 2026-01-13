@@ -1,3 +1,4 @@
+![Project Thumbnail](thumbnail.png)
 # E-Commerce Sales Performance Audit Project
 
 This project includes:
